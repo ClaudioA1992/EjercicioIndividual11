@@ -44,7 +44,9 @@
         android:text="Unlocked level 5"
         android:textColor="#28BDA7"
         app:layout_constraintStart_toStartOf="@+id/guideline5"
-        app:layout_constraintTop_toTopOf="@+id/guideline7" />
+        app:layout_constraintTop_toTopOf="@+id/guideline7"
+        app:strokeColor="#28BDA7"
+        app:strokeWidth="1dp" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
